@@ -4,7 +4,6 @@ import MediumCard from "../components/MediumCard";
 import LargeCard from "../components/LargeCard";
 
 const Main = ({ exploreData, cardsData }) => {
-  console.log(exploreData, cardsData);
   return (
     // small cards
 
